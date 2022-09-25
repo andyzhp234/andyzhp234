@@ -1,4 +1,4 @@
-:wave: <h1> Hi! My name is Haopeng! </h1> <br/>
+<h1> :wave: Hi! My name is Haopeng! </h1> <br/>
 
 Welcome to my Github page! <br/>
 
