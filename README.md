@@ -7,7 +7,7 @@ Welcome to my Github page! <br/>
 
 👀 I'm interested in learning new Technologies!! <br/>
 👀 Currently Learning React, Redux, Javascripts, Django, and Vue.js! <br/>
-👀 Recent Graduate from University of California, Santa Cruz! <br/>
+
 
 
 
