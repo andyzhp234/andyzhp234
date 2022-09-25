@@ -3,7 +3,6 @@
 Welcome to my Github page! <br/>
 
 <br/>
-<br/>
 
 👀 I'm interested in learning new Technologies!! <br/>
 👀 Currently Learning React, Redux, Javascripts, Django, and Vue.js! <br/>
