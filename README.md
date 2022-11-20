@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [www.hpzeng.com](www.hpzeng.com)
 
+- 👨‍💻 Currently Learning Typescript and Sass
+
 - 📫 How to reach me **andyzhp234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
