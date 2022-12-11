@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haopeng Zeng</h1>
 <h3 align="center">A Passionate Full Stack Developer Based in San Francisco, USA</h3>
 
-- 👨‍💻 All of my projects are available at [www.hpzeng.com](www.hpzeng.com)
+- 👨‍💻 All of my projects are available at [www.hpzeng.com](https://www.hpzeng.com/)
 
 - 👨‍💻 Currently Learning Typescript and Sass
 
