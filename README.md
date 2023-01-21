@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.hpzeng.com](https://www.hpzeng.com/)
 
-- 👨‍💻 Currently Learning Typescript and Sass
+- 👨‍💻 Currently Learning Typescript and Go
 
 - 📫 How to reach me **haopeng.zeng234@gmail.com**
 
