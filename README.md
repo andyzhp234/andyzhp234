@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Haopeng Zeng</h1>
 <h3 align="center">A Enthusiastic Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Webpack & Docker & Go**
+- 🌱 I’m currently learning **C++ & FPGA**
 
 - 👨‍💻 All of my projects are available at [hpzeng.com](hpzeng.com)
 
