@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [hpzeng.com](hpzeng.com)
 
-- 💬 Ask me about **React && Web Dev**
-
 - 📫 How to reach me **haopeng.zeng234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
