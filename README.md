@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm Haopeng Zeng</h1>
-<h3 align="center">A Enthusiastic Full Stack Developer</h3>
+<h1 align="center">I'm Haopeng Zeng</h1>
+<h3 align="center">A Embedded System Engineer & Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **C++ & Qt**
 
