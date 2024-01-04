@@ -14,7 +14,19 @@
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/haopengzeng" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -88,16 +100,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/haopengzeng" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
