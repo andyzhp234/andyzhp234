@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">
-  - 🌱 I’m currently learning C++ & STM32<br><br>
-  - 👨‍💻 All of my projects are available at hpzeng.com<br><br>
-  - 📫 How to reach me haopeng.zeng234@gmail.com
-</p>
+- 🌱 I’m currently learning **C++ & Qt**
+
+- 👨‍💻 All of my projects are available at [hpzeng.com](hpzeng.com)
+
+- 📫 How to reach me **haopeng.zeng234@gmail.com**
 
 ###
 
