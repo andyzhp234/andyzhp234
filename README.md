@@ -6,7 +6,7 @@
 
 ###
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Verilog & C++**
 
 - 👨‍💻 All of my projects are available at [hpzeng.com](hpzeng.com)
 
