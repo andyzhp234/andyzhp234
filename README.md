@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">An Embedded System Engineer & Full Stack Web Developer</h3>
+<h3 align="center"></h3>
 
 ###
 
-- 🌱 I’m currently learning **C++ & Qt**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [hpzeng.com](hpzeng.com)
 
